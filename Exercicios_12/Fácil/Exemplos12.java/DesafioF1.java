@@ -1,5 +1,3 @@
-package Exercicios_12.Fácil;
-
 import java.util.Scanner;
 
 public class DesafioF1 {
