@@ -1,6 +1,4 @@
-package Exercicios_12.Fácil;
-
-    import java.util.Scanner;
+import java.util.Scanner;
 
     public class DesafioF2 {
         public static void main(String[] args) {
